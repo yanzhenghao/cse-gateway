@@ -1,0 +1,2 @@
+x86架构的环境可下载main_x86
+arm架构的环境可下载main_arm
